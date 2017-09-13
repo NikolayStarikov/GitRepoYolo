@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/nikolay/darknet/scripts/2007_train.txt
+valid  = /home/nikolay/darknet/scripts/2007_val.txt
+names = data/car.names
+backup = backup/test-weights_20170829-car/
+
