@@ -1,0 +1,8 @@
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/10170090_Audi_A4.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/10020149_BMW_5-Series.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/10180079_BMW_5-Series.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/7450903_Volkswagen_Tiguan.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/9587080_Nissan_Murano.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/7457987_Volkswagen_Tiguan.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/9659559_Nissan_Murano.jpg
+/home/nikolay/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/8605583_Audi_A4.jpg
