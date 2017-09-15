@@ -1,7 +1,7 @@
 # Start from Ubuntu Base
 FROM ubuntu
 
-LABEL Description="IOTEdge License Plate Image Machine Learning"
+
 
 # configure docker image with proxies
 #ENV http_proxy http://proxy:8080
@@ -56,10 +56,14 @@ RUN apt-get update && apt-get install -y \
     	rm -rf /var/lib/apt/lists/*
 
 
+
+
 WORKDIR /app
 
 COPY Yolo /app/Yolo
 
+RUN git clone https://github.com/NikolayStarikov/GitRepoYolo Yolo && \ 
+ 	cd Yolo && \ 
 
 RUN cd Yolo/backup && wget -O  yolo-voc.backup.zip http://www.et-cetera.ru/tmp/yolo-voc.backup.zip  &&  unzip yolo-voc.backup.zip
 
